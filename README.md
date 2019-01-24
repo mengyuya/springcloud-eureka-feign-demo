@@ -1,4 +1,4 @@
-# springcloud-teach-2-demo
+# 搭建一个简易的微服务结构
 今天我们将搭建一个最简易的微服务结构：serviceA+eureka+serviceB的结构。
 
 ## （一）准备工作
